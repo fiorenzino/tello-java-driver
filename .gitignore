@@ -1,0 +1,34 @@
+*~
+.#*
+.git
+*#
+
+# os x stuff
+*Thumbs.db*
+*.DS_Store
+
+# Build artifacts
+build
+out
+tello*.jar
+
+# Intellij IDEA files
+*.ipr
+*.iws
+*.iml
+*.idea
+workspace.xml
+
+# gradle
+.gradle
+
+# Maven
+log/
+target/
+
+# local settings
+**/gradle.properties
+local.properties
+
+# jenv
+.java-version
